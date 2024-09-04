@@ -5,6 +5,13 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
+            name: "Weekly Pickem: Week 1",
+            url: "https://forms.gle/FpkG36XCSqNC2jeA6",
+            icon: "insights",
+            premium: false,
+            separator: true,
+        },
+        {
             name: "FTN Fantasy",
             url: "https://www.ftnfantasy.com/nfl",
             icon: "insights",
