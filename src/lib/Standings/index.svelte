@@ -71,6 +71,12 @@
         margin: 1.5em 0 2em;
     }
 
+    h2 {
+        font-size: 2.2em;
+        line-height: 1.3em;
+        margin: 1.5em 0 2em;
+    }
+
     .standingsTable {
         max-width: 100%;
         overflow-x: scroll;
@@ -110,3 +116,9 @@
         </DataTable>
     </div>
 {/if}
+
+<h2>{leagueName} Pickem Results</h2>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_L2uJOH9jXVvouDI587NFSo8d4V6oxCkWSZ-9UTAAjuuL6pQRQg4z40vEkApRBAuteCTD9vvlub5J/pubhtml?widget=true&amp;headers=false"></iframe>
+
+
