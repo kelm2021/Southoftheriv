@@ -18,7 +18,7 @@ export const tabs = [
     },
     {
         icon: 'article',
-        label: 'Blog',
+        label: 'Diabetic Document',
         dest: '/blog',
     },
     {
