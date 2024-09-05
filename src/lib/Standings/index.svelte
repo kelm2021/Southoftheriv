@@ -82,9 +82,10 @@
         margin: 0.5em 0 5em;
     }
 
-    .standingsTable1 {
-        max-width: 100%;
-        margin: 0.5em 0 5em;
+    .iframe{
+        font-size: 2.2em;
+        line-height: 1.3em;
+        margin: 1.5em 0 2em;
     }
 </style>
 
@@ -121,6 +122,6 @@
     </div>
 {/if}
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_L2uJOH9jXVvouDI587NFSo8d4V6oxCkWSZ-9UTAAjuuL6pQRQg4z40vEkApRBAuteCTD9vvlub5J/pubhtml?gid=1459315646&amp;single=true&amp;widget=true&amp;headers=true"></iframe>
+<div class="iframe">src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_L2uJOH9jXVvouDI587NFSo8d4V6oxCkWSZ-9UTAAjuuL6pQRQg4z40vEkApRBAuteCTD9vvlub5J/pubhtml?gid=1459315646&amp;single=true&amp;widget=true&amp;headers=false"></div>
 
 
