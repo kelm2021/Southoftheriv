@@ -141,7 +141,7 @@
     }
 </style>
 
-<h2 bind:this={el}>{leagueName} Blog</h2>
+<h2 bind:this={el}>Diabetic Documents</h2>
 
 {#if loading}
     <div class="loading" >
