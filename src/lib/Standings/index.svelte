@@ -79,7 +79,11 @@
 
     .standingsTable {
         max-width: 100%;
-        overflow-x: scroll;
+        margin: 0.5em 0 5em;
+    }
+
+    .standingsTable1 {
+        max-width: 100%;
         margin: 0.5em 0 5em;
     }
 </style>
@@ -119,6 +123,8 @@
 
 <h2>{leagueName} Pickem Results</h2>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_L2uJOH9jXVvouDI587NFSo8d4V6oxCkWSZ-9UTAAjuuL6pQRQg4z40vEkApRBAuteCTD9vvlub5J/pubhtml?widget=true&amp;headers=false"></iframe>
+<div class="standingsTable1">
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_L2uJOH9jXVvouDI587NFSo8d4V6oxCkWSZ-9UTAAjuuL6pQRQg4z40vEkApRBAuteCTD9vvlub5J/pubhtml?widget=true&amp;headers=false"></iframe>
+</div>
 
 
