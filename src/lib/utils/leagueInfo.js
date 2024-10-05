@@ -5,8 +5,6 @@ export const dues = 200; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
-<div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countup/386439" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="DDDD: # days past announced publish date"></iframe></div>
-
 /*   STEP 2   */
 export const homepageText = `
   <p>Founded in 2014, the South of the River league is a full-fledged dynasty league. Each year, the managers compete to win the Cup and avoid the ever-humiliating Toilet Bowl punishment.</p>
