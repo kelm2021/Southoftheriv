@@ -85,3 +85,4 @@
         <a class="viewAll" href="/blog">View More Blog Posts</a>
     </div>
 {/if}
+<div style="left:0; width:100%; height:0; position:relative; padding-bottom:25%; margin:0 auto"><iframe src="https://www.tickcounter.com/widget/countup/386439" style="top:0; left:0; width:100%; height:100%; position:absolute; border:0; overflow:hidden" title="DDDD: # days past announced publish date"></iframe></div>
