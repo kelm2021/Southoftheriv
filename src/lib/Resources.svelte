@@ -5,8 +5,8 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
-            name: "Weekly Pickem: Week 14",
-            url: "https://forms.gle/QTYqhEACgbZLtKSp8",
+            name: "Weekly Pickem: Week 15",
+            url: "https://forms.gle/p2u7oHJsfJZ8W4Hg9",
             icon: "insights",
             premium: false,
             separator: true,
