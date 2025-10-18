@@ -26,7 +26,7 @@ export const managers = [
     {
       "managerID": "723590717976420352", 
       "name": "Kent",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "IL", // (optional)
       "bio": "<p>Fan of Da Bears, Chicago Dogs, and BBLs</p>",
       "photo": "/managers/kent.jpg", // square ratio recommended (no larger than 500x500)
@@ -47,8 +47,8 @@ export const managers = [
      {
        "managerID": "723593197250486272",
        "name": "Jake",
-       "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "CA",
+       "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
+       "location": "MN",
        "bio": "Message Commish what you'd like your bio to be", 
        "photo": "/managers/jake.jpg", // square ratio recommended (no larger than 500x500)
        "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -66,9 +66,9 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": "461655186021019648",
-      "name": "Dylan",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "managerID": "1248128961037209600",
+      "name": "Sirac",
+      "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MN", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/dylan.jpg", // square ratio recommended (no larger than 500x500)
@@ -89,7 +89,7 @@ export const managers = [
     {
       "managerID": "723594258266832896",
       "name": "Nolan",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MN", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/nolan.jpg", // square ratio recommended (no larger than 500x500)
@@ -110,7 +110,7 @@ export const managers = [
     {
       "managerID": "723604254102757376",
       "name": "Alex",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "CA", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/alex.jpg", // square ratio recommended (no larger than 500x500)
@@ -131,7 +131,7 @@ export const managers = [
     {
       "managerID": "723612275360989184",
       "name": "Kyle",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "CA", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/kyle.jpg", // square ratio recommended (no larger than 500x500)
@@ -152,7 +152,7 @@ export const managers = [
     {
       "managerID": "723633175154225152",
       "name": "Ben",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MN", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/ben.jpg", // square ratio recommended (no larger than 500x500)
@@ -173,7 +173,7 @@ export const managers = [
     {
       "managerID": "723639098744586240",
       "name": "Ryan",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MN", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/ryan.jpg", // square ratio recommended (no larger than 500x500)
@@ -194,7 +194,7 @@ export const managers = [
     {
       "managerID": "724002490193928192",
       "name": "Noah",
-      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": "Founding Member", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MN", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/noah.jpg", // square ratio recommended (no larger than 500x500)
@@ -236,7 +236,7 @@ export const managers = [
     {
       "managerID": "724028510598971392",
       "name": "Evan",
-      "tookOver": 2014,
+      "tookOver": "Founding Member",
       "location": "MN", // (optional)
       "bio": "Message Commish what you'd like your bio to be",
       "photo": "/managers/evan.jpg", // square ratio recommended (no larger than 500x500)
